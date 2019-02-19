@@ -8,4 +8,4 @@
 
 #wall div#tag-4{display: none}
 
-#wall div.tag-5{display: none}
+div#wall .parent div.tag-5{display: none}
