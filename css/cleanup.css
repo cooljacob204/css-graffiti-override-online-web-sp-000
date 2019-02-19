@@ -4,4 +4,4 @@
 
 .tag-1 + #tag-2{display:none}
 
-#tag-2 + div#wall #tag-3.slick{display:none}
+div#wall #tag-3.slick{display:none}
